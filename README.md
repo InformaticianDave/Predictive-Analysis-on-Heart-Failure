@@ -15,29 +15,29 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 Results:
 
-# Logistic Regression:
-## Accuracy: 0.8444444444444444
-## F1 Score: 0.7307692307692308
+Logistic Regression:
+Accuracy: 84.44%
+F1 Score: 66.67%
 
-# Support Vector Machine:
-## Accuracy: 0.8
-## F1 Score: 0.608695652173913
+Support Vector Machine:
+Accuracy: 84.44%
+F1 Score: 69.57%
 
-# Neural Network:
-## Accuracy: 0.8333333333333334
-## F1 Score: 0.7457627118644068
+Neural Network:
+Accuracy: 81.11%
+F1 Score: 65.31%
 
-# Random Forest Classifier:
-## Accuracy: 0.8888888888888888
-## F1 Score: 0.8214285714285715
+Random Forest Classifier:
+Accuracy: 84.44%
+F1 Score: 69.57%
 
-# Gaussian NB:
-## Accuracy: 0.8
-## F1 Score: 0.6538461538461539
+Gaussian NB:
+Accuracy: 84.44%
+F1 Score: 66.67%
 
-# KNeighbors Classifier:
-## Accuracy: 0.7111111111111111
-## F1 Score: 0.4347826086956522
+KNeighbors Classifier:
+Accuracy: 76.67%
+F1 Score: 43.24%
 
 # The random forest algorithm creates numerous decision trees and blends them together, producing a more accurate and reliable prediction. The accuracy attained is statistically significant. Decision boundaries can be ascertained by splitting the data set to more manageable components.
 
