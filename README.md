@@ -17,26 +17,32 @@ Results:
 
 Logistic Regression:
 Accuracy: 84.44%
+
 F1 Score: 66.67%
 
 Support Vector Machine:
 Accuracy: 84.44%
+
 F1 Score: 69.57%
 
 Neural Network:
 Accuracy: 81.11%
+
 F1 Score: 65.31%
 
 Random Forest Classifier:
 Accuracy: 84.44%
+
 F1 Score: 69.57%
 
 Gaussian NB:
 Accuracy: 84.44%
+
 F1 Score: 66.67%
 
 KNeighbors Classifier:
 Accuracy: 76.67%
+
 F1 Score: 43.24%
 
 # The random forest algorithm creates numerous decision trees and blends them together, producing a more accurate and reliable prediction. The accuracy attained is statistically significant. Decision boundaries can be ascertained by splitting the data set to more manageable components.
